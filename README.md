@@ -50,6 +50,7 @@ A dual-portal web app for campus food courts: students browse menus, place order
 - Create .env file at root of your project and fill your api keys
     - VITE_SUPABASE_URL=your_supabase_project_url
     - VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+ - Run schema.sql in sql editor of your Supabase account to make required tables.
  - Run npm run dev
 
 # Interface 

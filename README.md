@@ -52,3 +52,17 @@ A dual-portal web app for campus food courts: students browse menus, place order
     - VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
  - Run npm run dev
 
+# Interface 
+<img width="700" height="400" alt="Screenshot 2026-06-29 114743" src="https://github.com/user-attachments/assets/d9e85bcb-f4d7-4b8d-81bb-113de821b5b5" /> 
+<img width="700" height="400" alt="Screenshot 2026-06-29 114808" src="https://github.com/user-attachments/assets/45d58751-9e2e-49f7-8af0-f048b632a08e" />
+<img width="700" height="400" alt="Screenshot 2026-06-29 114833" src="https://github.com/user-attachments/assets/1632529c-0e71-4ba1-9b7b-0efa20a72f06" />
+<img width="700" height="400" alt="Screenshot 2026-06-29 114903" src="https://github.com/user-attachments/assets/b2b517fc-0203-4958-9bce-d556a405f123" />
+<img width="700" height="400" alt="Screenshot 2026-06-29 114934" src="https://github.com/user-attachments/assets/e5abd0b8-6c28-4aea-8213-d05561ac5ef3" />
+
+## Schema
+<img width="630" height="450" alt="Screenshot 2026-06-29 115934" src="https://github.com/user-attachments/assets/7dfb0138-4284-4609-8792-fe51104c16fb" />
+
+
+
+
+
